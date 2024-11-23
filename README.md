@@ -1,1 +1,11 @@
 # Newspaper-Assignment
+
+
+Project Requarment.
+
+HTML AND BASIC CSS,
+USE HEADER, NAV, DIV,
+USE MOVE TEXT TAG,
+USE ANCHOR TAG,
+USE FONTAWSOME ICON,
+USE IMG TAG,
